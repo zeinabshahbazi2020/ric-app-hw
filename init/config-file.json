@@ -5,9 +5,9 @@
             {
                 "name": "hwxapp",
                 "image": {
-                    "registry": "nexus3.o-ran-sc.org:10002",
+                    "registry": "nexus3.o-ran-sc.org:321",
                     "name": "o-ran-sc/ric-app-hw",
-                    "tag": "1.0.6"
+                    "tag": "1.0.7"
                	}
             }
         ],
