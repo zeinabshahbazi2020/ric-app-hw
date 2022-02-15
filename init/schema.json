@@ -25,7 +25,7 @@
           "title": "The Xapp_port Schema",
           "default": 0,
           "examples": [
-            4560
+            7560
           ]
         },
         "rmr_port": {
@@ -34,7 +34,7 @@
           "title": "The Rmr_port Schema",
           "default": 0,
           "examples": [
-            4561
+           7561
           ]
         }
       }
@@ -59,7 +59,7 @@
           "title": "The Protport Schema",
           "default": "",
           "examples": [
-            "tcp:4560"
+            "tcp:7560"
           ],
           "pattern": "^(.*)$"
         },
@@ -69,7 +69,7 @@
           "title": "The Maxsize Schema",
           "default": 0,
           "examples": [
-            2072
+            7072
           ]
         },
         "numWorkers": {
